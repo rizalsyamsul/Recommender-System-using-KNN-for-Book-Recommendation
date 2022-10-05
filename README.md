@@ -1,3 +1,3 @@
 # DMC21-Damin
-Data Mining Final Project
+Recommender System using KNN for Book Recommendation
 Dataset taken from Data Mining Cup 2021
